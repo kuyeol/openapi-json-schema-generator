@@ -129,7 +129,7 @@ output classes. Json schemas allow multiple types for one schema, so a schema's 
 allowed input and output types.
 
 ## Code Sample
-```
+```java
 import org.openapijsonschematools.client.configurations.ApiConfiguration;
 import org.openapijsonschematools.client.configurations.SchemaConfiguration;
 import org.openapijsonschematools.client.configurations.JsonSchemaKeywordFlags;
